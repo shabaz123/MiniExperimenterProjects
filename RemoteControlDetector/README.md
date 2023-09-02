@@ -12,12 +12,31 @@ All TVs contain a little integrated circuit (IC) that senses light with an inter
 
 Beyond that, all that is needed in the circuit is a way to reduce or regulate the power to the chip (it needs to be less than 5V not to damage it). An LED is connected to the output of the chip, through a resistor to limit the current (LEDs don’t need a lot of power).
 
+## Downloads
+
+[PDF circuit diagram and pinouts](remote_control_detector_schematic.pdf)
+
 ## Circuit Diagram
 
 <img width="100%" align="left" src="doc\schematic.png">
 
 ## Components List
 
+    COMPONENTS LIST
+    R1, R2: 10k RESISTORS
+    R3: 220 ohm RESISTOR
+    Q1: BC547 NPN TRANSISTOR
+    C1: 10uF CAPACITOR
+    U1: TL1831 INFRA-RED 38kHz SENSOR
+    D1: LIGHT EMITTING DIODE (LED)
+
 ## Photos and Video
+
+<img width="100%" align="left" src="doc\rem-con-layout-photo.jpg">
+
+<img width="100%" align="left" src="doc\rem-con-layout-photo2.jpg">
+
+
+
 
 
