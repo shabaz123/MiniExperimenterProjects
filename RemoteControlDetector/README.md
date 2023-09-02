@@ -14,6 +14,8 @@ Beyond that, all that is needed in the circuit is a way to reduce or regulate th
 
 ## Circuit Diagram
 
+<img width="100%" align="left" src="doc\schematic.png">
+
 ## Components List
 
 ## Photos and Video
