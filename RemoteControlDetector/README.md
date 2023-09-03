@@ -20,6 +20,10 @@ Beyond that, all that is needed in the circuit is a way to reduce or regulate th
 
 <img width="100%" align="left" src="doc\schematic.png">
 
+## Pinouts
+
+<img width="100%" align="left" src="doc\pinouts.png">
+
 ## Components List
 
     COMPONENTS LIST
